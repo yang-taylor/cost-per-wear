@@ -1,3 +1,4 @@
 date,weather,average temp,clothing
 2022-09-10,rain,76,"ts-01,jeans-01,socks-01,shoes-01,jacket-01"
 2022-09-11,cloudy,79.5,"ts-02,jeans-01,socks-02,shoes-01,jacket-01"
+2022-09-12,sunny,77.5,"ts-02,shorts-01,socks-02,shoes-01,shorts-02"
