@@ -1,4 +1,3 @@
-# https://www.accuweather.com/en/us/raleigh/27601/september-weather/329823
 date,weather,average temp,clothing
 2022-09-10,rain,76,"ts-01,jeans-01,shoes-01,jacket-01"
 2022-09-11,cloudy,79.5,"ts-02,jeans-01,shoes-01,jacket-01"
@@ -10,6 +9,8 @@ date,weather,average temp,clothing
 2022-09-17,sunny,71.5,"ts-05,pants-01,shoes-01"
 2022-09-18,sunny,73.5,"pants-01,shoes-01"
 2022-09-19,sunny,77,"dress-01,shoes-01"
-2022-09-20,sunny,78,"polo-01,pants-02,shoes-01"
+2022-09-20,sunny,78,"ts-08,pants-02,shoes-01"
 2022-09-21,sunny,80,"shirt-07,shorts-03"
-2022-09-22,sunny,74.5,"shirt-01,pants-03,skirt-01"
+2022-09-22,sunny,74.5,"shirt-01,pants-03,skirt-01,shoes-01"
+2022-09-23,sunny,61,"crop-01,pants-03,shoes-01"
+2022-09-24,cloudy,67.5,"longsleeve-01,skirt-01,shoes-01"
