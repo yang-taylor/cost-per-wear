@@ -13,4 +13,5 @@ date,weather,average temp,clothing
 2022-09-21,sunny,80,"shirt-07,shorts-03"
 2022-09-22,sunny,74.5,"shirt-01,pants-03,skirt-01,shoes-01"
 2022-09-23,sunny,61,"crop-01,pants-03,shoes-01"
-2022-09-24,cloudy,67.5,"longsleeve-01,skirt-01,shoes-01"
+2022-09-24,partly cloudy,67.5,"longsleeve-01,skirt-01,shoes-01"
+2022-09-25,partly cloudy,72,"ts-01,shorts-03,shoes-01"
