@@ -6,7 +6,7 @@ I'm planning on analyzing and visualizing the cost per wear of my closet.
 ### TODO
 - Python Data Science Handbook:
 	- [x] Introduction to NumPy
-	- [ ] Data Manipulation with Pandas (start after 'Vectorizing...')
+	- [x] Data Manipulation with Pandas 
 	- [ ] Visualization with Matplotlib
 	- [ ] Machine Learning
 
